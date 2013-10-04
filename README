@@ -1,0 +1,7 @@
+Ruby program to check if resources are repeated within the catalog
+
+Ensure the Puppet Ruby libraries are available
+
+Usage: check_repeat.rb class_name
+
+Example ./check_repeat.rb role::web_server_1
